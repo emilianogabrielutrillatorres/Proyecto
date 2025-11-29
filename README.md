@@ -87,7 +87,7 @@ Ruta: principal/templates/inicio.html
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/tailwindcss@2.2.19/dist/tailwind.min.css">
 </head>
 <body class="bg-gray-100 text-center p-8">
-    <h1 class="text-3xl font-bold text-blue-600 mb-4">{{ titulo }}</h1>
+    <h1 class="text-3xl font-bold text-blue-600 mb-4">{{ Acerca de }}</h1>
     <p>Este es tu primer template en Django 🎉</p>
 </body>
 </html>
