@@ -92,7 +92,7 @@ Ruta: principal/templates/inicio.html
 </body>
 </html>
 
-🎯 Propósito del Proyecto
+##Propósito del Proyecto
 
 El propósito de este proyecto es introducir al estudiante al flujo completo de desarrollo con Django, permitiéndole:
 
