@@ -91,6 +91,7 @@ Ruta: principal/templates/inicio.html
     <p>Este es tu primer template en Django 🎉</p>
 </body>
 </html>
+
 🎯 Propósito del Proyecto
 
 El propósito de este proyecto es introducir al estudiante al flujo completo de desarrollo con Django, permitiéndole:
